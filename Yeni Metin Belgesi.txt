@@ -1,0 +1,1 @@
+Bir galeri de yeni araç olarak gelen bir arabanın özelliklerini görebilme, arabamızın markasına yada modeline yeni gelen güncel özellik yada fiyatlandırmayı gösteren algoritma sorusunu çözelim
